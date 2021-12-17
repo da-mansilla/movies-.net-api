@@ -1,0 +1,3 @@
+[submodule "react-movie-frontend"]
+	path = react-movie-frontend
+	url = https://github.com/da-mansilla/react-movie-frontend
